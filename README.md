@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Rudra
 
-<!--
-**rudra717/rudra717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Engineer building AI systems, agent workflows, and scalable backend platforms.
+---
+### 🔧 What I'm working on
+- 🤖 AI systems (LLMs, RAG, agent workflows)
+- ⚡ Distributed backend systems
+- ☁️ Cloud + Kubernetes-based architectures
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently exploring
+- 🧠 Conversation memory systems for LLMs
+- 🔄 Multi-agent orchestration (LangGraph)
+- 📊 Vector databases & semantic search
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Open to collaborate on
+- AI / LLM projects
+- Backend & system design
+- Open source contributions
+---
+
+### 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/rudraravalji
+- Twitter: https://x.com/rudra_717
